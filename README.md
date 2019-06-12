@@ -12,7 +12,7 @@ Run `format-events.py`
 
 | Name | Link to DA Tool | Category | Description | City | Country | External Web Page | Start Date | End Date |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-IBM Developer Day @ DTEC - Dubai  UAE - 11/06/2019 - Dubai - 11/06/2019 |	https://w3.ibm.com/developer/events-dashboard/event/5c8f6c8963c61003f098f11b	| Conference	| IBM Developer Day is a Tech for Good event in Dubai  featuring over 6 sessions throughout the whole day  extensive networking sessions and a chance to pose questions to subject matter experts and technologists."	| Dubai	| United Arab Emirates | https://www.meetup.com/IBMCloud-Dubai/events/261446545/ |	2019-06-11T05:00:00.000Z	| 2019-06-11T12:00:00.000Z
+IBM Developer Day @ DTEC - Dubai  UAE - 11/06/2019 - Dubai - 11/06/2019 |	https://w3.ibm.com/developer/events-dashboard/event/5c8f6c8963c61003f098f11b	| Conference	| IBM Developer Day is a Tech for Good event in Dubai  featuring over 6 sessions throughout the whole day  extensive networking sessions and a chance to pose questions to subject matter experts and technologists.	| Dubai	| United Arab Emirates | https://www.meetup.com/IBMCloud-Dubai/events/261446545/ |	2019-06-11T05:00:00.000Z	| 2019-06-11T12:00:00.000Z
 
 # Sample Output
 ```
