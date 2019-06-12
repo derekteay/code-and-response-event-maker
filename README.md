@@ -6,6 +6,8 @@ This project uses the AirTable Python Wrapper - https://github.com/gtalarico/air
 # Usage
 Add data to this AirTable - https://airtable.com/tblQehxM71jcC1HSk/viwmr7QGq39XvdLH0
 
+Run `format-events.py`
+
 # Sample Input
 
 | Name | Link to DA Tool | Category | Description | City | Country | External Web Page | Start Date | End Date |
